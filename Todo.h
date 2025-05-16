@@ -16,5 +16,13 @@
  * ２．1分毎の平均電圧を表示する。
  * ２．1分毎の平均電圧を表示する。
  * ２．1分毎の平均電圧を表示する。
- * 
+ * ２．1分毎の平均電圧を表示する。
+ * ２．1分毎の平均電圧を表示する。
+ * ２．1分毎の平均電圧を表示する。
+ * ２．1分毎の平均電圧を表示する。
+ * ２．1分毎の平均電圧を表示する。
+ * ２．1分毎の平均電圧を表示する。
+ * ２．1分毎の平均電圧を表示する。
+
+git reset --mixed HEAD^     git reset --mixed HEAD^     git reset --mixed HEAD^     git reset --mixed HEAD^     git reset --mixed HEAD^     git reset --mixed HEAD^     git reset --mixed HEAD^     git reset --mixed HEAD^     git reset --mixed HEAD^     git reset --mixed HEAD^     git reset --mixed HEAD^     git reset --mixed HEAD^     git reset --mixed HEAD^     git reset --mixed HEAD^     git reset --mixed HEAD^     git reset --mixed HEAD^     git reset --mixed HEAD^      * 
  */
