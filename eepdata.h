@@ -1,3 +1,6 @@
+//TEST‚P‚Q‚R
+
+
 typedef struct EEP_Data {
   float calc_v;
   float dischg_v;
