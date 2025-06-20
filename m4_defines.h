@@ -6,7 +6,7 @@ U8GLIB_SSD1306_128X32 u8g(U8G_I2C_OPT_NONE);
 
 #if MULTI_CHECK == false
 #define APP_NAME "Discharge Unit    "   //
-#define APP_VER  "         ver 1.3.1"   // テスト開始
+#define APP_VER  "         ver 1.3.2"   // テスト開始
 #else
 #define APP_NAME "Multi func Unit2  "   //
 #define APP_VER  "         ver 1.0.0"   // テスト開始

@@ -39,7 +39,7 @@ int discharge_interval = 0;
 unsigned int discharge_time = 0;
 unsigned int discharge_all_time = 0;
 unsigned char discharge_sts = 0;
-float f_volt[3] = {2.80, 2.75, 0};      // [0]=Now [1]=target
+float f_volt[3] = {2.80, 2.80, 0};      // [0]=Now [1]=target
 float f_current[2] = {0, 0};           // [0]=Now [1]=target
 
 float target_current=3.0;            // 放電制御中に使用する変数
